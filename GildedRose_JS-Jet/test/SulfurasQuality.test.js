@@ -14,7 +14,7 @@ describe("Sulfuras", function () {
     gildedRose.updateQuality();
 
     expect(sulfuras.name).toBe("Sulfuras, Hand of Ragnaros");
-    expect(sulfuras.sellIn).toBe(10); 
-    expect(sulfuras.quality).toBe(70); 
+    expect(sulfuras.sellIn).toBe(10);
+    expect(sulfuras.quality).toBe(70);
   });
 });
